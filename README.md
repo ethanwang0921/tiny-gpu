@@ -390,3 +390,5 @@ Updates I want to make in the future to improve the design, anyone else is welco
 - [ ] Write a basic graphics kernel or add simple graphics hardware to demonstrate graphics functionality
 
 **For anyone curious to play around or make a contribution, feel free to put up a PR with any improvements you'd like to add 😄**
+
+# add by eliow
